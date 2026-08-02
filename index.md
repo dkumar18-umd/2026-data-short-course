@@ -178,4 +178,4 @@ We appreciate these partnerships and look forward to working with you all!
 | Manisha (Participant) | University of the Algarve | manisha1810 | [https://manisha1810.github.io/](https://manisha1810.github.io/manishaee.github.io/) |
 | Asma Mansoor (Visiting Lecturer/Independent Researcher) | NUML, Pakistan | AM-Sheikh02 | [https://am-sheikh02.github.io/](https://am-sheikh02.github.io/) |
 | Mohammed (Participannt) | University of Saskatchewan | Mohammed777777777 | [https://mohammed777777777.github.io/](https://mohammed777777777.github.io/) |
-| Danish Kumar (Participannt) | University of Maryland | dkumar18-umd | [https://dkumar18-umd.github.io/Danish-Kumar.github.io/](https://dkumar18-umd.github.io/Danish-Kumar.github.io/) |
+| Danish Kumar (Participannt) | University of Maryland | dkumar18-umd | [dkumar18-umd.github.io](https://dkumar18-umd.github.io) |
